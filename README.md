@@ -5,4 +5,4 @@ Here I documented my journey to make a solid foundation in basics of CPP program
 1. Variables, Data types & Operators 
 2. If Else
 
-## This repo has been paused for a little time frame.
+## This repository is ongoing.
