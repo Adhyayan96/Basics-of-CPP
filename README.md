@@ -4,5 +4,6 @@ Here I documented my journey to make a solid foundation in basics of CPP program
 ## Topics covered :
 1. Variables, Data types & Operators 
 2. If Else
+3. While loop
 
 ## This repository is ongoing.
