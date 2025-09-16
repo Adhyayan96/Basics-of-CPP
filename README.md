@@ -9,6 +9,6 @@ Here I documented my journey to make a solid foundation in basics of CPP program
 5. Switch Statement
 
 ## Projects :
-1. Calculator (curently can do calculation upto 2 numbers)
+1. Calculator (curently can do calculation upto 2 numbers) 
 
 ## This repository is ongoing.
