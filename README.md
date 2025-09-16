@@ -10,5 +10,6 @@ Here I documented my journey to make a solid foundation in basics of CPP program
 
 ## Projects :
 1. Calculator (curently can do calculation upto 2 numbers) 
+I'm just changing this readme to learn how to push changes in github through vscosde.
 
 ## This repository is ongoing.
