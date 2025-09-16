@@ -9,7 +9,6 @@ Here I documented my journey to make a solid foundation in basics of CPP program
 5. Switch Statement
 
 ## Projects :
-1. Calculator (curently can do calculation upto 2 numbers) 
-I'm just changing this readme to learn how to push changes in github through vscosde.
+1. Calculator (curently can do calculation upto 2 numbers)
 
 ## This repository is ongoing.
