@@ -9,6 +9,5 @@ s[len-1] = 'z'; // changed last character of my string
 cout << s[3] << "\n";
 cout << len << "\n";
 cout << s[len-1] << "\n";
-
 return 0;
 }
