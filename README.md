@@ -10,6 +10,7 @@ Here I documented my journey to make a solid foundation in basics of CPP program
 6. 1D & 2D Arrays implementation
 7. Strings Implementation
 8. For loops
+9. Do While loop
 
 ## Projects :
 1. Calculator (curently can do calculation upto 2 numbers)
