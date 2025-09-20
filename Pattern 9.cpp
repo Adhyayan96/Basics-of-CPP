@@ -22,7 +22,7 @@ int main() {
     cout << "\n";
     row++;
    }
-   // Another way to solve it 
+   // Another way to solve it, without using : int value = row;
    int row2 = 1;
    while (row2<=n) {
     int col = 1;
