@@ -1,5 +1,5 @@
 # Basics-of-CPP
-Here I documented my journey to make a solid foundation in basics of CPP programming, before diving deep into DSA.
+Here I documented my journey to make a solid foundation in basics of CPP programming.
 
 ## Topics covered :
 1. Variables, Data types & Operators 
@@ -20,4 +20,4 @@ Here I documented my journey to make a solid foundation in basics of CPP program
 ## Projects :
 1. Calculator (curently can do calculation upto 2 numbers)
 
-## This repository is ongoing.
+## This repository is completed.
