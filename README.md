@@ -20,4 +20,4 @@ Here I documented my journey to make a solid foundation in basics of CPP program
 ## Projects :
 1. Calculator (curently can do calculation upto 2 numbers)
 
-## This repository is completed.
+## This repository is paused.
